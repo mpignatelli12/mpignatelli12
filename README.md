@@ -7,6 +7,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I part of my university's premier rocketry team. This year, we successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=mpignatelli12&theme=algolia&show_icons=true)](https://github.com/mpignatelli12)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mpignatelli12)](https://github.com/mpignatelli12/github-readme-stats)
 <!---
 mpignatelli12/mpignatelli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
