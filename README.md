@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael! (@mpignatelli12)
-- 👀 I’m interested in Machine Learning/AI, Data Science, Linguistics and Cognitive Science, Healthcare Technology, Electric/Sustainable Transportation, Aerospace, FinTech
+- 👀 I’m interested in Machine Learning/AI, Data Science, Linguistics and Cognitive Science, Healthcare Technology, Electric/Sustainable Transportation, Aerospace, and FinTech
 - 💡 I'm proficient in Java, Python, C, and OCaml
 - 🌱 I’m currently learning C++, Swift, and SQL 
 - 💞️ I’m looking to collaborate on projects that work to inspire a love of STEM.
