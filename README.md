@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I part of UPenn's premier rocketry team. This year, we successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpignatelli12&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&rank_icon=github" />
