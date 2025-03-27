@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpignatelli12&layout=compact&langs_count=8&card_width=320&size_weight=0&count_weight=1" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpignatelli12&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&rank_icon=github" />
 </a>
 <!---
 mpignatelli12/mpignatelli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
