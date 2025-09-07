@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Michael! (@mpignatelli12)
 - 👀 I’m interested in Machine Learning/AI, Data Science, Linguistics and Cognitive Science, Healthcare Technology, Electric/Sustainable Transportation, Aerospace, and FinTech
-- 💡 I'm proficient in Java, Python, C, and OCaml
-- 🌱 I’m currently learning Go, C++, Swift, and SQL 
+- 💡 I'm proficient in Java, Python, C/++, Go, and OCaml
+- 🌱 I’m currently learning Swift and SQL 
 - 💞️ I’m looking to collaborate on projects that work to inspire a love of STEM.
-- 📫 How to reach me - Email: mpig@seas.upenn.edu
+- 📫 How to reach me - Email: mpig[at]seas[dot]upenn[dot]edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm part of UPenn's premier rocketry team. We recently successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
+- ⚡ Fun fact: I'm part of UPenn's premier rocketry team 🚀. We recently successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12&rank_icon=github&theme=github_dark" />
