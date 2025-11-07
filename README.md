@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that work to inspire a love of STEM.
 - 📫 How to reach me - Email: mpig[at]seas[dot]upenn[dot]edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm part of UPenn's premier rocketry team 🚀. We recently successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
+- ⚡ Fun fact: I'm a subteam lead for Penn's rocketry team 🚀. We recently successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12&rank_icon=github&theme=github_dark" />
