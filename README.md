@@ -1,19 +1,47 @@
-- 👋 Hi, I’m Michael! (@mpignatelli12)
-- 👀 I’m interested in Machine Learning/AI, Data Science, Linguistics and Cognitive Science, Healthcare Technology, Electric/Sustainable Transportation, Aerospace, and FinTech
-- 💡 I'm proficient in Java, Python, C/++, Go, and OCaml
-- 🌱 I’m currently learning Swift and SQL 
-- 💞️ I’m looking to collaborate on projects that work to inspire a love of STEM.
-- 📫 How to reach me - Email: mpig[at]seas[dot]upenn[dot]edu
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm a subteam lead for Penn's rocketry team 🚀. We recently successfully launched a 10ft tall rocket to over 12000ft in the middle of the New Mexican desert!
+# 👋 Hi, I'm Michael
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mpignatelli12&rank_icon=github&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpignatelli12&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=github_dark" />
-</a>
-<!---
-mpignatelli12/mpignatelli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS + Cognitive Science @ Penn · ML & Systems  
+Former SWE Intern @ **Ava Labs** (AvalancheGo gRPC) · Head TA for **CIS 1100**
+
+---
+
+## 🔧 Tech
+
+### Languages
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/go-000?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=cplusplus)
+![Swift](https://img.shields.io/badge/swift-000?style=for-the-badge&logo=swift)
+![OCaml](https://img.shields.io/badge/ocaml-000?style=for-the-badge&logo=ocaml)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+
+### Tools & Frameworks
+![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs)
+![FastAPI](https://img.shields.io/badge/fastapi-000?style=for-the-badge&logo=fastapi)
+![Tailwind](https://img.shields.io/badge/tailwind-000?style=for-the-badge&logo=tailwindcss)
+![TensorFlow](https://img.shields.io/badge/tensorflow-000?style=for-the-badge&logo=tensorflow)
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=google)
+![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=githubactions)
+
+---
+
+## 🚀 Projects
+
+- **AvalancheGo (Ava Labs):** Implemented production **gRPC APIs** replacing JSON-RPC; improved type safety + latency.  
+- **PedestrianBuddies:** Embedded CV system using **TensorFlow Lite** for gesture detection on microcontrollers.  
+- **Tabby (PennApps):** Full-stack bill-splitting app using **FastAPI**, MongoDB, React, and **Gemini** receipt parsing.  
+- **Lifeline:** AI-assisted healthcare timeline built with **React + TypeScript**.  
+- **Other:** GuessWhoGame (Java networking), Scopa (SwiftUI), CIS110 infra/tools.
+
+---
+
+## 📫 Contact
+
+[![Web](https://img.shields.io/badge/website-000?style=for-the-badge&logo=aboutdotme)](https://michaelpignatelli.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpignatelli)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail)](mailto:mpig@seas.upenn.edu)
