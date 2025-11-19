@@ -23,6 +23,7 @@ Former SWE Intern @ **Ava Labs** (AvalancheGo gRPC) · Head TA for **CIS 1100**
 ![Next.js](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs)
 ![FastAPI](https://img.shields.io/badge/fastapi-000?style=for-the-badge&logo=fastapi)
 ![Tailwind](https://img.shields.io/badge/tailwind-000?style=for-the-badge&logo=tailwindcss)
+![PyTorch](https://img.shields.io/badge/pytorch-000?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-000?style=for-the-badge&logo=tensorflow)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![gRPC](https://img.shields.io/badge/grpc-000?style=for-the-badge&logo=google)
