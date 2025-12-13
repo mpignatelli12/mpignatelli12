@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael
 
 CS + Cognitive Science @ Penn · ML & Systems  
-Former SWE Intern @ **Ava Labs** (AvalancheGo gRPC) · Head TA for **CIS 1100**
+Former SWE Intern @ **Ava Labs** · Head TA for **CIS 1100**
 
 ---
 
