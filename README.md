@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael
 
-CS + Cognitive Science @ Penn · ML & Systems  
-Former SWE Intern @ **Ava Labs** · Head TA for **CIS 1100**
+CS + Cognitive Science @ Penn · ML, UI/UX, & Systems  
+Former SWE Intern @ **Ava Labs**, **Bentley Systems** · Head TA for **CIS 1100**
 
 ---
 
@@ -33,7 +33,8 @@ Former SWE Intern @ **Ava Labs** · Head TA for **CIS 1100**
 
 ## 🚀 Projects
 
-- **AvalancheGo (Ava Labs):** Implemented production **gRPC APIs** replacing JSON-RPC; improved type safety + latency.  
+- **AvalancheGo (Ava Labs):** Implemented production **gRPC APIs** replacing JSON-RPC; improved type safety + latency.
+- **SACS Offshore (Bentley Systems):** Contributed to the integration of AI assistant features into iTwinStudio.
 - **PedestrianBuddies:** Embedded CV system using **TensorFlow Lite** for gesture detection on microcontrollers.  
 - **Tabby (PennApps):** Full-stack bill-splitting app using **FastAPI**, MongoDB, React, and **Gemini** receipt parsing.  
 - **Lifeline:** AI-assisted healthcare timeline built with **React + TypeScript**.  
@@ -45,4 +46,4 @@ Former SWE Intern @ **Ava Labs** · Head TA for **CIS 1100**
 
 [![Web](https://img.shields.io/badge/website-000?style=for-the-badge&logo=aboutdotme)](https://michaelpignatelli.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mpignatelli)
-[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail)](mailto:mpig@seas.upenn.edu)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail)](mailto:mpig@engineering.upenn.edu)
